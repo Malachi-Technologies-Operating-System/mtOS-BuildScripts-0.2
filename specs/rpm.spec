@@ -1,10 +1,10 @@
 Name:           rpm
-Version:        4.19.1.1
+Version:        4.20.0
 Release:        1%{?dist}
 Summary:        The RPM package management system
 License:        GPLv2+
 
-Source0:        https://ftp.osuosl.org/pub/rpm/releases/rpm-4.19.x/rpm-%{version}.tar.bz2
+Source0:        https://ftp.osuosl.org/pub/rpm/releases/rpm-4.20.x/rpm-%{version}.tar.bz2
 
 %description
 The RPM Package Manager (RPM) is a powerful command line driven

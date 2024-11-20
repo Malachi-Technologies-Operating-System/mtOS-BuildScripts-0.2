@@ -1,5 +1,5 @@
 Name:           elfutils
-Version:        0.191
+Version:        0.192
 Release:        1%{?dist}
 Summary:        A collection of utilities and DSOs to handle ELF files and DWARF data
 License:        GPLv2+

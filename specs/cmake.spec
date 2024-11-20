@@ -1,5 +1,5 @@
 Name:           cmake
-Version:        3.30.2
+Version:        3.31.0
 Release:        1%{?dist}
 Summary:        Cross-platform make system
 License:        BSD and MIT and zlib

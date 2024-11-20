@@ -1,5 +1,5 @@
 Name:           tcl
-Version:        8.6.14
+Version:        8.6.15
 %global         version2    8.6
 Release:        1%{?dist}
 Summary:        Tool Command Language, pronounced tickle

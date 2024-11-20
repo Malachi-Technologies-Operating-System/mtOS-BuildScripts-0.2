@@ -1,5 +1,5 @@
 Name:           kmod
-Version:        31
+Version:        33
 Release:        1%{?dist}
 Summary:        Linux kernel module management utilities
 License:        GPLv2+

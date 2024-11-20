@@ -1,6 +1,6 @@
 Name:           python
-Version:        3.12.5
-%global         python_version 3.12
+Version:        3.13.0
+%global         python_version 3.13
 Release:        1%{?dist}
 Summary:        Interpreter of the Python programming language
 License:        Python

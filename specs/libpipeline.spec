@@ -1,5 +1,5 @@
 Name:           libpipeline
-Version:        1.5.7
+Version:        1.5.8
 Release:        1%{?dist}
 Summary:        A pipeline manipulation library
 License:        GPLv3+

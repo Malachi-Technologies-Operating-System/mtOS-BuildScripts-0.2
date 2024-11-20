@@ -1,5 +1,5 @@
 Name:           procps-ng
-Version:        4.0.3
+Version:        4.0.4
 Release:        1%{?dist}
 Summary:        System and process monitoring utilities
 License:        GPL+ and GPLv2 and GPLv2+ and GPLv3+ and LGPLv2+

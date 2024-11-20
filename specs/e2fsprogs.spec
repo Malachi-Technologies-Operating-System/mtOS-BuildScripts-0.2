@@ -1,5 +1,5 @@
 Name:           e2fsprogs
-Version:        1.47.0
+Version:        1.47.1
 Release:        1%{?dist}
 Summary:        Utilities for managing ext2, ext3, and ext4 file systems
 License:        GPLv2

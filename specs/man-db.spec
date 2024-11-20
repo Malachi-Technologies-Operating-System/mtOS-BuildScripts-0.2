@@ -1,5 +1,5 @@
 Name:           man-db
-Version:        2.12.0
+Version:        2.13.0
 Release:        1%{?dist}
 Summary:        Tools for searching and reading man pages
 License:        GPLv2+ and GPLv3+
