@@ -1,10 +1,10 @@
 Name:           binutils
-Version:        2.43
+Version:        2.43.1
 Release:        1%{?dist}
 Summary:        A GNU collection of binary utilities
 License:        GPLv3+
 
-Source0:        https://sourceware.org/pub/binutils/releases/binutils-%{version}.tar.xz
+Source0:        https://ftp.gnu.org/gnu/binutils/binutils-%{version}.tar.xz
 
 %description
 Binutils is a collection of binary utilities, including ar (for creating,
