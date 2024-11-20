@@ -5,7 +5,7 @@ Summary:        System and Service Manager
 License:        LGPLv2+ and MIT and GPLv2+
 
 Source0:        https://github.com/systemd/systemd/archive/v%{version}/systemd-%{version}.tar.gz
-Source1:        https://anduin.linuxfromscratch.org/LFS/systemd-man-pages-%{version}.tar.xz
+Source1:        https://ftp2.osuosl.org/pub/blfs/conglomeration/systemd/systemd-256.tar.gz
 
 %description
 systemd is a system and service manager that runs as PID 1 and starts the rest
