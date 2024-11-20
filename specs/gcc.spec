@@ -1,7 +1,7 @@
 %bcond_with     lfs_gcc_libstdcpp_only
 
 Name:           %{!?with_lfs_gcc_libstdcpp_only:gcc}%{?with_lfs_gcc_libstdcpp_only:libstdc++}
-Version:        14.2.1
+Version:        14.2.0
 Release:        1%{?dist}
 Summary:        Various compilers (C, C++, Objective-C, ...)
 License:        GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
