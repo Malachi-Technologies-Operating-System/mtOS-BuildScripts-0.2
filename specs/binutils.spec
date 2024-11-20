@@ -1,5 +1,5 @@
 Name:           binutils
-Version:        2.43.0
+Version:        2.43
 Release:        1%{?dist}
 Summary:        A GNU collection of binary utilities
 License:        GPLv3+
