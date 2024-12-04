@@ -19,6 +19,7 @@ strip (for discarding symbols), and addr2line (for converting addresses to file
 and line).
 
 #---------------------------------------------------------------------------
+%_topdir %(pwd)
 %prep
 %setup -q
 
