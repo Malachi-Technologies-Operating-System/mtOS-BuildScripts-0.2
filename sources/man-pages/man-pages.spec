@@ -30,6 +30,7 @@ rm -v man3/crypt*
 
 #---------------------------------------------------------------------------
 %files
+%{_mandir}/man3attr/*.3attr*
 /usr/bin/diffman-git
 /usr/bin/mansect
 /usr/bin/pdfman
